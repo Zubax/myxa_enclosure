@@ -1,13 +1,9 @@
-# myxa_enclosure
-Aluminium enclosure for Myxa. 
+# Aluminum enclosure for Myxa
 
-Myxa is a high-end FOC ESC based on the Télega motor control technology. Learn more about Myxa https://zubax.com/products/myxa and Télega https://zubax.com/technologies/telega.  			
+[**Myxa**](https://zubax.com/products/myxa) is a high-end FOC ESC based on the [Télega motor control technology](https://zubax.com/technologies/telega).
 
-The aluminium enclosure adds the nice view for the Myxa ESC and increases the continuous power range up to 850W.
+The aluminum enclosure increases the continuous power range up to 850W and provides additional protection against mechanical damage.
 
-You need to have SolidWorks 2017sp1 or higher to open assembly files. You can also download http://www.edrawingsviewer.com/ for view and export enclosure assembly files.
+You need to have SolidWorks 2017sp1 or higher to open the assembly files. You can also download [eDrawings](http://www.edrawingsviewer.com) for viewing and exporting the enclosure assembly files.
 
-Plastic case for Myxa is also available (https://www.thingiverse.com/thing:2792733)
-
-
-
+A plastic enclosure for Myxa is [also available](https://www.thingiverse.com/thing:2792733).
