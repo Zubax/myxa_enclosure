@@ -20,3 +20,4 @@
 
 ## Assembly
 First, prepare a 10 mm wide strip of the thermal pad. Use the ruler and the knife to ensure that the cutoff line is straight. Afterwards, cut the stripe into two patches: one 35 mm long and one 6 х 13 mm. 
+![Thermal pad strip](/1.jpg)
