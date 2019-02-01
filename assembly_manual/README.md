@@ -20,4 +20,26 @@
 
 ## Assembly
 First, prepare a 10 mm wide strip of the thermal pad. Use the ruler and the knife to ensure that the cutoff line is straight. Afterwards, cut the stripe into two patches: one 35 mm long and one 6 х 13 mm. 
+
 ![Thermal pad strip](1.jpg)
+
+Put screws into holes on the top part of the enclosure and insert plastic washers on them
+
+![washers](2.jpg)
+
+Remove the protective film from one side of the patches and carefully place them onto the heat exchange surfaces of the heat sink, as shown on the image. Do not touch the heat exchange surfaces while assembling the enclosure. This is because the grease from human hands may impair thermal conductivity of the interface.
+You must ensure that the longer patch is perfectly aligned with the edges of the enclosure. If necessary, use the tweezers to align the large patch at the edges.
+
+When both patches are put in place and aligned properly, remove the protective film from the other side using the tweezers. 
+
+![thermal sink](3.jpg)   ![protective film removing](4.jpg)
+
+Insert plastic "battery_wires_spacer" on wires and plastic "phase_insert" on phase connectors of the Myxa ESC. 
+
+![sleeves](5.jpg)
+
+Mount the Myxa PCB on the top part of the enclosure and insert washers on the top side of the board.  
+
+![myxa mounting](6.jpg)   ![washers on myxa](7.jpg)
+
+
