@@ -13,8 +13,10 @@
 
 ## Tools needed
 * Knife
-* Cutting mat with metric grid
 * Tweezers
 * Ruler
 * Hex key 2 mm (either an L-shaped key or a screwdriver)
 * 50 VDC lab power supply
+
+## Assembly
+First, prepare a 10 mm wide strip of the thermal pad. Use the ruler and the knife to ensure that the cutoff line is straight. Afterwards, cut the stripe into two patches: one 35 mm long and one 6 х 13 mm. 
