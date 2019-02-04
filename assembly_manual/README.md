@@ -32,7 +32,7 @@ You must ensure that the longer patch is perfectly aligned with the edges of the
 
 When both patches are put in place and aligned properly, remove the protective film from the other side using the tweezers. 
 
-![thermal sink](3.jpg)   ![protective film removing](4.jpg)
+![thermal sink](3.jpg)   ![protective film removal](4.jpg)
 
 Slide the 3D-printed plastic parts named `battery_wires_spacer` and `phase_insert` onto the power supply wires and the phase connectors of the Myxa ESC, respectively.
 
